@@ -1,0 +1,5 @@
+- 👋 Yo, I’m @m4ango-msnz, you could jut call me mango or something 
+- 👀 I’m interested in game design and other programming stuff
+- 🌱 I’m currently learning c#, and would like gain more programming experience
+- 💞️ I’m looking to collaborate on anything as long as it isn't a really big project. I'm curently in school so I wanna have some time for that too
+- 📫 How to reach me: Instagram: @m4ngo.msnz 
