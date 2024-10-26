@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Elijah. I'm currently a student at DigiPen Institute of Technology(BS Computer Science and Game Design). 
+- 👋 Hello, I’m Elijah. I'm currently a freshman at DigiPen Institute of Technology(BS Computer Science and Game Design). 
 - 👀 I’m interested in game design and programming
 - 💞️ I’m looking to collaborate on anything really. I want to get as much experience as possible
 - 📫 How to reach me: Email : elijmango4@gmail.com
